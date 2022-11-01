@@ -1,6 +1,6 @@
 # AI-Illustration-Analysis
 AIイラストと人手イラストの違いを見つけることが目的
-
+AIイラストはwife diffusion, stable diffusion, Nobel AIで作成されたものを対象にしています。
 # 実験項目 
 [AIイラスト顔検出](#実験1)
 
