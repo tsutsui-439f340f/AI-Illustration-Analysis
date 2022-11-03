@@ -11,7 +11,7 @@ AIイラストはwife diffusion, stable diffusion, Nobel AIで作成されたも
 ![image](https://user-images.githubusercontent.com/55880071/195827632-b47b94c6-8f7d-424f-9e5e-916e5bece9e2.png)
 
 ## 識別器の学習
-人手イラスト(879枚)とAIイラスト(598枚)を使って2値分類ResNetの学習をしてみた。\
+人手イラスト(879枚)とAIイラスト(598枚)を使って2値分類ResNetの学習をさせ、正しく認識できるかを試した。\
 結果\
 学習が不安定で誤判定まみれだった。\
 学習のさせ方が悪いのかも。\
